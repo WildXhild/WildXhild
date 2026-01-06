@@ -61,7 +61,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 # Hi there, I'm Daniel Isamon (WildXhild)! 👋
 
-![Banner Image](./Images/Banner.jpg)
+![Banner Image](./Images/Banner.png)
 
 **[🌐 Visit My Website](https://deanbydzyne.netlify.app)**
 
